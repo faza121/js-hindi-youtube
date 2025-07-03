@@ -9,11 +9,11 @@ let name = "faza"
 let age = 18
 let isLoggedIn = false
 
-Number
-BigInt
-string =>""
-boolean => true/false
-null => standalone value
-undefined =>
-symbol => unique 
-object 
+//Number
+//BigInt
+//string =>"""
+//boolean => true/false
+//null => standalone value
+//undefined =>
+//symbol => unique 
+//object 
